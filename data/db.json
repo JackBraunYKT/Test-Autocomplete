@@ -1,0 +1,204 @@
+{
+  "cities": [
+    {
+      "name": "Casa Grande",
+      "id": "1"
+    },
+    {
+      "name": "Bartlett",
+      "id": "2"
+    },
+    {
+      "name": "Collierville",
+      "id": "3"
+    },
+    {
+      "name": "Des Plaines",
+      "id": "4"
+    },
+    {
+      "name": "North Lauderdale",
+      "id": "5"
+    },
+    {
+      "name": "Fontana",
+      "id": "6"
+    },
+    {
+      "name": "Corpus Christi",
+      "id": "7"
+    },
+    {
+      "name": "Georgetown",
+      "id": "8"
+    },
+    {
+      "name": "Bethesda",
+      "id": "9"
+    },
+    {
+      "name": "Lake Ridge",
+      "id": "10"
+    },
+    {
+      "name": "Palo Alto",
+      "id": "11"
+    },
+    {
+      "name": "Dallas",
+      "id": "12"
+    },
+    {
+      "name": "Novi",
+      "id": "13"
+    },
+    {
+      "name": "Scottsdale",
+      "id": "14"
+    },
+    {
+      "name": "North Bethesda",
+      "id": "15"
+    },
+    {
+      "name": "Lorain",
+      "id": "16"
+    },
+    {
+      "name": "Palm Harbor",
+      "id": "17"
+    },
+    {
+      "name": "State College",
+      "id": "18"
+    },
+    {
+      "name": "Hacienda Heights",
+      "id": "19"
+    },
+    {
+      "name": "Redlands",
+      "id": "20"
+    },
+    {
+      "name": "Plantation",
+      "id": "21"
+    },
+    {
+      "name": "La Habra",
+      "id": "22"
+    },
+    {
+      "name": "Mesa",
+      "id": "23"
+    },
+    {
+      "name": "Riverton",
+      "id": "24"
+    },
+    {
+      "name": "Cape Coral",
+      "id": "25"
+    },
+    {
+      "name": "The Woodlands",
+      "id": "26"
+    },
+    {
+      "name": "Titusville",
+      "id": "27"
+    },
+    {
+      "name": "Ames",
+      "id": "28"
+    },
+    {
+      "name": "Knoxville",
+      "id": "29"
+    },
+    {
+      "name": "Normal",
+      "id": "30"
+    },
+    {
+      "name": "Palo Alto",
+      "id": "31"
+    },
+    {
+      "name": "Wesley Chapel",
+      "id": "32"
+    },
+    {
+      "name": "Huntington Beach",
+      "id": "33"
+    },
+    {
+      "name": "Scranton",
+      "id": "34"
+    },
+    {
+      "name": "Toledo",
+      "id": "35"
+    },
+    {
+      "name": "Moore",
+      "id": "36"
+    },
+    {
+      "name": "Kentwood",
+      "id": "37"
+    },
+    {
+      "name": "Carson",
+      "id": "38"
+    },
+    {
+      "name": "Monterey Park",
+      "id": "39"
+    },
+    {
+      "name": "Florence-Graham",
+      "id": "40"
+    },
+    {
+      "name": "Highlands Ranch",
+      "id": "41"
+    },
+    {
+      "name": "Highland",
+      "id": "42"
+    },
+    {
+      "name": "Frederick",
+      "id": "43"
+    },
+    {
+      "name": "Rocklin",
+      "id": "44"
+    },
+    {
+      "name": "Spokane",
+      "id": "45"
+    },
+    {
+      "name": "Woodbury",
+      "id": "46"
+    },
+    {
+      "name": "St. Louis",
+      "id": "47"
+    },
+    {
+      "name": "San Francisco",
+      "id": "48"
+    },
+    {
+      "name": "Glen Burnie",
+      "id": "49"
+    },
+    {
+      "name": "Meridian",
+      "id": "50"
+    }
+  ]
+}
